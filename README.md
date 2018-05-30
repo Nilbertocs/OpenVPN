@@ -14,7 +14,7 @@ You can get a cheap VPS to run this script for $2.50/month worldwide at [Vultr](
 Execute com permições de root o único comando abaixo:
 
 ```bash
-wget https://raw.githubusercontent.com/Nilbertocs/OpenVPN-install/master/openvpn-install.sh
+wget https://raw.githubusercontent.com/Nilbertocs/OpenVPN/master/openvpn-install.sh
 chmod +x openvpn-install.sh
 ```
 
